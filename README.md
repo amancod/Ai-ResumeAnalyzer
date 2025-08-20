@@ -55,8 +55,8 @@ Build an **AI-powered Resume Analyzer** with **React**, **React Router**, and **
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/amancod/Ai-ResumeAnalyzer.git
+cd Ai-ResumeAnalyzer
 ```
 
 ### Installation
@@ -76,8 +76,3 @@ Open **[http://localhost:5173](http://localhost:5173)** in your browser.
 ---
 
 ---
-
-## 🚨 Tutorial
-
-This repository corresponds to the in-depth tutorial on the **JavaScript Mastery** YouTube channel.
-Prefer visual learning? Follow along to build projects like this step-by-step in a beginner-friendly way!
